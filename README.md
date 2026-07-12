@@ -1,26 +1,24 @@
-## Hi there 👋
+## 👋 Hi I'm Jhon Vincent! 
 
-I'm Jhon Vincent a Graphics Designer based in Philippines
+Graphics Designer based in Philippines<br/>
+Studied Information Technology at Arellano University Jose Abad Santos<br/>
+I am a self-motivated and creative individual with over three years of experience in freelance work<br/>
+​I have a passion for graphic design and I am always looking for new challenges and opportunities to hone my skills<br/>
 
-I am a self-motivated and creative individual with over three years of experience in freelance work.
-
-[Experience]
-
-Freelance Graphic Designer
-
+Experience<br/>
+[Freelance Graphic Designer]<br/>
 March 2020 - present
-- Remained committed to producing quality content in accordance with deadlines.
-- Utilized Adobe Creative Suite to design logos, brochures, websites, advertisements, and other visual elements.
-- Created Innovative designs that effectively communicated the brand's message to target audience.
-- Worked to ensure that client brand standards were upheld.
-- Completed 50+ graphic design projects for small businesses and big corporations.
+- Remained committed to producing quality content in accordance with deadlines
+- Utilized Adobe Creative Suite to design logos, brochures, websites, advertisements, and other visual elements
+- Created Innovative designs that effectively communicated the brand's message to target audience
+- Worked to ensure that client brand standards were upheld
+- Completed 50+ graphic design projects for small businesses and corporations
 
-[Social Media Administrator]
-
+[Social Media Administrator]<br/>
 Team PikaJems | May 2020 - 2022
 
 - Organizes all social media posts
-- Created designs and layouts.
+- Created designs and layouts
 - Conceptualized and executed design of digital campaigns
 
 My main tools are 
