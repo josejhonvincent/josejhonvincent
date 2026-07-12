@@ -28,6 +28,10 @@ My main tools are
     PowerPoint                  After Effects              ​    Filmora X
                               Lightroom Classic
 
+you can contact me here:
+[LinkedIn](https://www.linkedin.com/in/josejhonvincentm/)
+[Instagram](https://www.instagram.com/round.cheese/)
+
 
 <!--
 **josejhonvincent/josejhonvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
