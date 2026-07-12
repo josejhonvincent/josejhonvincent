@@ -29,10 +29,24 @@ Team PikaJems | May 2020 - 2022
                               Lightroom Classic
 
 
-### contact me
+
+
+
+
+
+
+
+## Spotify Podcast Poster
+<p align="center">
+  <img src="https://github.com/josejhonvincent/images/blob/6b0423fcace4c077deeaaf9cb18f3963bb4f49f2/S1.jpg" width="200" />
+  <img src="https://github.com/josejhonvincent/images/blob/6b0423fcace4c077deeaaf9cb18f3963bb4f49f2/S2.png" width="200" />
+  <img src="https://github.com/josejhonvincent/images/blob/6b0423fcace4c077deeaaf9cb18f3963bb4f49f2/S3.png" width="200" />
+  <img src="https://github.com/josejhonvincent/images/blob/6b0423fcace4c077deeaaf9cb18f3963bb4f49f2/S4.jpg" width="200" />
+</p>
+
+### Contact me
 [LinkedIn](https://www.linkedin.com/in/josejhonvincentm/)<br/>
 [Instagram](https://www.instagram.com/round.cheese/)<br/>
-
 
 <!--
 **josejhonvincent/josejhonvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
