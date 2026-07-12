@@ -5,7 +5,7 @@ Studied Information Technology at Arellano University Jose Abad Santos<br/>
 I am a self-motivated and creative individual with over three years of experience in freelance work<br/>
 ​I have a passion for graphic design and I am always looking for new challenges and opportunities to hone my skills<br/>
 
-Experience<br/>
+#### Experience<br/>
 [Freelance Graphic Designer]<br/>
 March 2020 - present
 - Remained committed to producing quality content in accordance with deadlines
@@ -21,16 +21,17 @@ Team PikaJems | May 2020 - 2022
 - Created designs and layouts
 - Conceptualized and executed design of digital campaigns
 
-My main tools are 
+### Main Tools
 
       Word                        Photoshop                      Capcut
       Excel                      Illustrator                     Canva
     PowerPoint                  After Effects              ​    Filmora X
                               Lightroom Classic
 
-you can contact me here:
-[LinkedIn](https://www.linkedin.com/in/josejhonvincentm/)
-[Instagram](https://www.instagram.com/round.cheese/)
+
+### contact me
+[LinkedIn](https://www.linkedin.com/in/josejhonvincentm/)<br/>
+[Instagram](https://www.instagram.com/round.cheese/)<br/>
 
 
 <!--
