@@ -2,7 +2,7 @@
 
 Graphics Designer based in Philippines<br/>
 Studied Information Technology at Arellano University Jose Abad Santos<br/>
-I am a self-motivated and creative individual with over three years of experience in freelance work<br/>
+I am a self-motivated and creative individual with over six years of experience in freelance work<br/>
 ​I have a passion for graphic design and I am always looking for new challenges and opportunities to hone my skills<br/>
 
 #### Experience<br/>
