@@ -35,8 +35,7 @@ Team PikaJems | May 2020 - 2022
 
 
 
-# Portfolio
-[Portfolio](https://josejhonvincent.github.io)<br/>
+### Learn more about me: [Portfolio](https://josejhonvincent.github.io)<br/>
 
 ## Spotify Podcast Poster
 <p align="center">
