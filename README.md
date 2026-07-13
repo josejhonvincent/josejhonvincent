@@ -37,6 +37,7 @@ Team PikaJems | May 2020 - 2022
 
 ### Learn more about me: [Portfolio](https://josejhonvincent.github.io)<br/>
 
+<!--
 ## Spotify Podcast Poster
 <p align="center">
   <img src="https://github.com/josejhonvincent/images/blob/6b0423fcace4c077deeaaf9cb18f3963bb4f49f2/S1.jpg" width="200" />
@@ -48,6 +49,7 @@ Team PikaJems | May 2020 - 2022
 ### Contact me
 [LinkedIn](https://www.linkedin.com/in/josejhonvincentm/)<br/>
 [Instagram](https://www.instagram.com/round.cheese/)<br/>
+-->
 
 <!--
 **josejhonvincent/josejhonvincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
